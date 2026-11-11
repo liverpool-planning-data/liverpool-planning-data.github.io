@@ -9,7 +9,6 @@
 - [Developer Agreement](https://liverpool-planning-data.github.io/developer-agreement/)
 - [Developer Agreement Contribution](https://liverpool-planning-data.github.io/developer-agreement-contribution/)
 - [Developer Agreement Transaction](https://liverpool-planning-data.github.io/developer-agreement-transaction/)
-- [Geographic Information System](https://liverpool-planning-data.github.io/geographic-information-system/)
 - [Infrastructure Funding Statement](https://liverpool-planning-data.github.io/infrastructure-funding-statement/)
 - [Listed Building Outline](https://liverpool-planning-data.github.io/listed-building-outline/)
 - [Local Plan](https://liverpool-planning-data.github.io/local-plan/)
@@ -20,3 +19,5 @@
 - [Tree Preservation Order](https://liverpool-planning-data.github.io/tree-preservation-order/)
 - [Tree Preservation Zone](https://liverpool-planning-data.github.io/tree-preservation-zone/)
 - [Waste Plan](https://liverpool-planning-data.github.io/waste-plan/)
+# geographic-information-system
+- [Geographic Information System](https://liverpool-planning-data.github.io/geographic-information-system/)

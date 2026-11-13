@@ -1,4 +1,4 @@
-# Github
+# GitHub
 - [Home](https://github.com/liverpool-planning-data/)
 # liverpool-planning-data.github.io
 - [Article 4 Direction](https://liverpool-planning-data.github.io/article-4-direction/)

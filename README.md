@@ -19,5 +19,5 @@
 - [Tree Preservation Order](https://liverpool-planning-data.github.io/tree-preservation-order/)
 - [Tree Preservation Zone](https://liverpool-planning-data.github.io/tree-preservation-zone/)
 - [Waste Plan](https://liverpool-planning-data.github.io/waste-plan/)
-# liverpool-planning-data.github.io/geographic-information-system/
+# /geographic-information-system/
 - [Geographic Information System](https://liverpool-planning-data.github.io/geographic-information-system/)

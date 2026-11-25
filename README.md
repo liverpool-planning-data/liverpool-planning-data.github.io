@@ -20,4 +20,4 @@
 - [Tree Preservation Zone](https://liverpool-planning-data.github.io/tree-preservation-zone/)
 - [Waste Plan](https://liverpool-planning-data.github.io/waste-plan/)
 # /geographic-information-spatial-data/
-- [Geographic Information Spatial Data](https://liverpool-planning-data.github.io/geographic-information-spaital-data/)
+- [Geographic Information Spatial Data](https://liverpool-planning-data.github.io/geographic-information-spatial-data/)
